@@ -4,7 +4,7 @@
 //
 //  Created by 山本 on 2017/12/16.
 //  Copyright © 2017年 com.pointofgolf. All rights reserved.
-//
+//あ
 
 import UIKit
 
